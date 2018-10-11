@@ -10,7 +10,7 @@ The variables are listed as they appear in the data file.
 
 ------------------
 
-### state
+### state 
 - **Description**: state name 
 
 -----------------
