@@ -41383,15 +41383,15 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2016,Arizona,AZ,Coconino,4005,President,Hillary Clinton,democrat,32404,59784,20181011
 2016,Arizona,AZ,Coconino,4005,President,Donald Trump,republican,21108,59784,20181011
 2016,Arizona,AZ,Coconino,4005,President,Other,NA,6272,59784,20181011
-2016,Arizona,AZ,Gila,4007,President,Hillary Clinton,democrat,7003,36697,20181011
-2016,Arizona,AZ,Gila,4007,President,Donald Trump,republican,14182,36697,20181011
-2016,Arizona,AZ,Gila,4007,President,Other,NA,15512,36697,20181011
-2016,Arizona,AZ,Graham,4009,President,Hillary Clinton,democrat,3301,20306,20181011
-2016,Arizona,AZ,Graham,4009,President,Donald Trump,republican,8025,20306,20181011
-2016,Arizona,AZ,Graham,4009,President,Other,NA,8980,20306,20181011
-2016,Arizona,AZ,Greenlee,4011,President,Hillary Clinton,democrat,1092,5192,20181011
-2016,Arizona,AZ,Greenlee,4011,President,Donald Trump,republican,1892,5192,20181011
-2016,Arizona,AZ,Greenlee,4011,President,Other,NA,2208,5192,20181011
+2016,Arizona,AZ,Gila,4007,President,Hillary Clinton,democrat,7003,22312,20181011
+2016,Arizona,AZ,Gila,4007,President,Donald Trump,republican,14182,22312,20181011
+2016,Arizona,AZ,Gila,4007,President,Other,NA,1127,22312,20181011
+2016,Arizona,AZ,Graham,4009,President,Hillary Clinton,democrat,3301,12134,20181011
+2016,Arizona,AZ,Graham,4009,President,Donald Trump,republican,8025,12134,20181011
+2016,Arizona,AZ,Graham,4009,President,Other,NA,808,12134,20181011
+2016,Arizona,AZ,Greenlee,4011,President,Hillary Clinton,democrat,1092,3270,20181011
+2016,Arizona,AZ,Greenlee,4011,President,Donald Trump,republican,1892,3270,20181011
+2016,Arizona,AZ,Greenlee,4011,President,Other,NA,286,3270,20181011
 2016,Arizona,AZ,La Paz,4012,President,Hillary Clinton,democrat,1575,5951,20181011
 2016,Arizona,AZ,La Paz,4012,President,Donald Trump,republican,4003,5951,20181011
 2016,Arizona,AZ,La Paz,4012,President,Other,NA,373,5951,20181011
